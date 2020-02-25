@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/practice_Immutability/static/js/main.11dc6006.chunk.js",
+    "main.js.map": "/practice_Immutability/static/js/main.11dc6006.chunk.js.map",
+    "runtime-main.js": "/practice_Immutability/static/js/runtime-main.7b683e32.js",
+    "runtime-main.js.map": "/practice_Immutability/static/js/runtime-main.7b683e32.js.map",
+    "static/js/2.b549ff96.chunk.js": "/practice_Immutability/static/js/2.b549ff96.chunk.js",
+    "static/js/2.b549ff96.chunk.js.map": "/practice_Immutability/static/js/2.b549ff96.chunk.js.map",
+    "index.html": "/practice_Immutability/index.html",
+    "precache-manifest.9baf37a9bbc1d3c243679045172b2489.js": "/practice_Immutability/precache-manifest.9baf37a9bbc1d3c243679045172b2489.js",
+    "service-worker.js": "/practice_Immutability/service-worker.js",
+    "static/js/2.b549ff96.chunk.js.LICENSE.txt": "/practice_Immutability/static/js/2.b549ff96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b683e32.js",
+    "static/js/2.b549ff96.chunk.js",
+    "static/js/main.11dc6006.chunk.js"
+  ]
+}
