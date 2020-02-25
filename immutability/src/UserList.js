@@ -4,6 +4,10 @@ import User from './User';
 
 class UserList extends Component {
 
+    shouldComponentUpdate(nextProps, nextstate) {
+        return nextProps.users !== this.props.users;
+    }
+
     renderUsers = () => {
         const { users } = this.props;
         return users.map((user) => (
