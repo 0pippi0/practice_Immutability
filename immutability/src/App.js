@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import UserList from './UserList';
-import { List } from 'immutable';
+import { Map, List } from 'immutable';
 
 
 class App extends Component {
